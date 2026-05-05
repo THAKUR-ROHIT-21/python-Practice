@@ -76,4 +76,17 @@ print(f3 not in str1)
 print(f4 not in str1)
 print("_"*100)
 
+# Logical Operators (and, or, not)
+
+x = 5
+print(x > 3 and x < 10)
+
+print("_"*70)
+
+x = 5
+print(x > 3 or x < 4)
+print("_"*70)
+
+
+
 
