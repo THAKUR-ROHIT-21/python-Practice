@@ -23,6 +23,8 @@ else:
 
 print("_"*100)
 
+# Drive car
+
 age1= 18
 user_age1= int(input("Enter your age :- "))
 
@@ -31,4 +33,23 @@ if user_age1 >= age1 :
 else:
     print("You can't Drive the car")
 
-print("_"*100) 
+print("_"*100)
+
+#  pick any
+
+cl1= "Red"
+cl2= "Green"
+cl3= "Yellow"
+cl4= (cl1,cl2,cl3)
+color= input("Enter your Favorate Color :- ")
+if color in cl4:
+    print("Your color is in the box")
+else:
+    print("I have not Color")
+
+print("_"*70)
+
+
+
+
+
