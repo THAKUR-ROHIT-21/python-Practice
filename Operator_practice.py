@@ -1,5 +1,4 @@
 # Arithmetic Operators
-"""
 x = 15
 y = 4
 
@@ -41,7 +40,7 @@ z = x
 
 print(x is z)
 print(x is y)
-print(x == y) """
+print(x == y)
 
 # Membership Operators (in, not in)
 
