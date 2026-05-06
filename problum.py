@@ -1,6 +1,6 @@
 
 
-# >= is not supported in (int and tuple)
+
 num4= 3
 num5= 9
 num6= 12
