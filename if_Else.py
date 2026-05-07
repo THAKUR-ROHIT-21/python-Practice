@@ -49,7 +49,15 @@ else:
 
 print("_"*70)
 
+x=10
+y=20
 
+if x>y:
+    print("yes")
+else:
+    print("no")
+
+print("_"*100)
 
 
 

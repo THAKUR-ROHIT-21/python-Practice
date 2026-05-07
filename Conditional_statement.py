@@ -10,3 +10,6 @@ print("_"*100)
 A= int(input("Enter Your Number :- "))
 
 print(A%100)
+
+
+

@@ -87,6 +87,9 @@ x = 5
 print(x > 3 or x < 4)
 print("_"*70)
 
+x=20
+y=30
+z=x<y
+print(z)
 
-
-
+print("_"*100)

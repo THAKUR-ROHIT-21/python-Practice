@@ -1,3 +1,4 @@
+#use of if, elif and else
 
 str = input("Enter traffic light color :-")
 
