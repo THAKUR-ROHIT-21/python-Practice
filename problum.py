@@ -1,4 +1,3 @@
-
 # not supported between instances of 'int' and 'tuple'
 
 num4= 3
