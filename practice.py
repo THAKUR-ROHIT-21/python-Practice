@@ -7,8 +7,8 @@ def num(base,exp):
 print(num(2,3))
 
 # Using pow() Function method
-
+# in power function base **exp it means : 4**6 :- 4x4x4x4x4x4=4096
 base= 4
 exp = 6
 result= pow(base,exp)
-print(f"power {result}" )
+print(f"power {result}")
